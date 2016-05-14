@@ -1,5 +1,8 @@
 # Animation-of-Operation-Sandstorm
 [UCLA CS174A Project 2] Helicopter hovering around a castle in a war zone
+
+
+Assignment Spec:
 CS 174A — Introduction to Computer Graphics: Assignment 2
 Let your imagination and creativity fly!       Due: End of Friday May 13th
 Weight: 15 %
