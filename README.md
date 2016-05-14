@@ -1,4 +1,4 @@
-# Animation-of-Operation-Sandstorm
+# Animation: Operation Sandstorm
 [UCLA CS174A Project 2] Helicopter hovering around a castle in a war zone
 
 
