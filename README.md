@@ -1,5 +1,5 @@
-# Animation: Operation Sandstorm
-[UCLA CS174A Project 2] Helicopter hovering around a castle in a war zone
+# Animation: Operation Sandstorm - Helicopter hovering around a castle in a war zone
+[CS174A Project 2] Helicopter hovering around a castle in a war zone
 
 
 Assignment Spec:
@@ -7,9 +7,6 @@ CS 174A — Introduction to Computer Graphics: Assignment 2
 Let your imagination and creativity fly!       Due: End of Friday May 13th
 Weight: 15 %
 Maximum points: 37
-Note: The class will screen all the animations and hold a vote on the best animations and games!  The top ones will receive a substantial bonus in the course.
-Collaboration: None. If you discuss this assignment with others you should submit their names along with the assignment material.
-Start working on this assignment early. You will not have time to do a satisfactory job at the last minute.
 
 Write a program that displays an animated scene. Your scene should include a combination of hierarchical objects that move around. Required elements:
 [4 points] Show at least one two-level hierarchical object (e.g., a human arm)
