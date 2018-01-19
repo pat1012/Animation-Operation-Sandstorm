@@ -389,7 +389,7 @@ inherit(text_line, shape);
 
 
 
-///////////My own shapes
+///////////My complex shape
 function pyramid(points_transform) {
     shape.call(this);
     this.populate(this, points_transform);
