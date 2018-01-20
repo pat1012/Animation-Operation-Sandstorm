@@ -1,11 +1,10 @@
 # Animation: Operation Sandstorm - Helicopter hovering around a castle in a war zone
 [CS174A Project 2] 
 
+Name:Yang Li
+
 
 Animation name: US Air Force - Operation Sandstorm
-Name:Yang Li
-UID:104138705
-
 
 My animation shows  a war zone scenario in which a US Air Force helicopter is hovering around a castle.
 The helicopter was built by combining different shapes together and applying a military camouflage texture with national flag on it.
