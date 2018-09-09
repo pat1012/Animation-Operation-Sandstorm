@@ -1,14 +1,11 @@
 # Animation: Operation Sandstorm - Helicopter hovering around a castle in a war zone
 [CS174A Project 2] 
 
-Name:Yang Li
-
-
 Animation name: US Air Force - Operation Sandstorm
 
-My animation shows  a war zone scenario in which a US Air Force helicopter is hovering around a castle.
+This animation shows a war zone scenario in which a US Air Force helicopter is hovering around a castle.
 The helicopter was built by combining different shapes together and applying a military camouflage texture with national flag on it.
-My two-hierarchy shape is a pyramid which was made from scratch with triangles. The objects using this custom shape are the roofs of the 4 towers located at the 4 corners of the castle (textured with orange bricks).
+A two-hierarchy shape that I created was a pyramid (made from scratch with triangles).  Objects using this custom shape include the roofs of the 4 towers located at the 4 corners of the castle (textured with orange bricks).
 
 This animation has 4 different stages of the camera perspective:
 
